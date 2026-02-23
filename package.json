@@ -1,0 +1,19 @@
+{
+  "name": "it23571334_lab03-nodejs",
+  "version": "1.0.0",
+  "description": "Lab shett 04",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvmalliyawatta-gif/It23571334_lab03-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvmalliyawatta-gif/It23571334_lab03-nodejs/issues"
+  },
+  "homepage": "https://github.com/dvmalliyawatta-gif/It23571334_lab03-nodejs#readme"
+}
